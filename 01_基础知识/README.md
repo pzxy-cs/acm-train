@@ -5,9 +5,20 @@
 
 
 
+
 <br/>
 
 ## **蓝桥杯/ACM介绍**
+
+蓝桥杯：
+
+-   https://dasai.lanqiao.cn/
+
+ICPC ACM：
+
+-   https://dasai.lanqiao.cn/
+
+
 
 比赛形式、内容；
 
